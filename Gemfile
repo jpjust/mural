@@ -52,3 +52,5 @@ gem "pry", "~> 0.14.2"
 gem "sd_notify", "~> 0.1.1"
 
 gem "mysql2", "~> 0.5.6"
+
+gem "dotenv-rails", "~> 3.1"
